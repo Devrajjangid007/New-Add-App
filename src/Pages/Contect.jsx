@@ -5,5 +5,4 @@ const Contect = () => {
     <div>Contect Page</div>
   )
 }
-
 export default Contect
